@@ -1,6 +1,8 @@
 baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "Magik Goblin"
+themeDir = "themes"
+publishDir = "docs"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
