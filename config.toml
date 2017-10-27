@@ -1,4 +1,5 @@
-baseurl = "http://example.org/"
+# Site Settings
+baseurl = "https://magikgoblin.github.io/hugo-quickstart/"
 languageCode = "en-us"
 title = "Magik Goblin"
 themeDir = "themes"

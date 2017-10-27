@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magik Goblin</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content on Magik Goblin</description>
+    <title>Categories on Magik Goblin</title>
+    <link>https://magikgoblin.github.io/hugo-quickstart/categories/</link>
+    <description>Recent content in Categories on Magik Goblin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://magikgoblin.github.io/hugo-quickstart/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fancy App 1</title>
-      <link>http://example.org/itemized/item1/</link>
+      <title></title>
+      <link>https://magikgoblin.github.io/hugo-quickstart/categories/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item1/</guid>
-      <description> App 1 </description>
+      <guid>https://magikgoblin.github.io/hugo-quickstart/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 2</title>
-      <link>http://example.org/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Go</title>
+      <link>https://magikgoblin.github.io/hugo-quickstart/categories/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item2/</guid>
-      <description> App 2 </description>
+      <guid>https://magikgoblin.github.io/hugo-quickstart/categories/go/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 3</title>
-      <link>http://example.org/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Hugo</title>
+      <link>https://magikgoblin.github.io/hugo-quickstart/categories/hugo/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item3/</guid>
-      <description> App 3 </description>
+      <guid>https://magikgoblin.github.io/hugo-quickstart/categories/hugo/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 4</title>
-      <link>http://example.org/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Jekyll</title>
+      <link>https://magikgoblin.github.io/hugo-quickstart/categories/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item4/</guid>
-      <description> App 4 </description>
+      <guid>https://magikgoblin.github.io/hugo-quickstart/categories/jekyll/</guid>
+      <description></description>
     </item>
     
   </channel>
